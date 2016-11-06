@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    font-size: 22px;
+    float: right;
+}
+
+.info {
+    width: 90%;
+    float: right;
+}
+
+.split {
+    width: 10%;
+    float: left;
+}
